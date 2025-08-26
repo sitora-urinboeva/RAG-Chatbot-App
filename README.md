@@ -1,4 +1,4 @@
-# RAG Application 🎓🤖
+# RAG Application 🤖
 
 An AI-powered multi-feature application built with **LangChain**, **HuggingFace**, **Qdrant**, and **Streamlit**.  
 It supports:
