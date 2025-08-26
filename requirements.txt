@@ -1,0 +1,24 @@
+# Core
+streamlit==1.36.0
+numpy
+scipy
+torch
+transformers
+sentencepiece
+accelerate
+
+# LangChain & ecosystem
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-core==0.2.5
+langchain-ollama
+qdrant-client
+pypdf
+nltk
+
+# Embeddings
+sentence-transformers
+huggingface-hub
+
+# TTS / Bark
+bark==0.0.1
